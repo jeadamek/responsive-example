@@ -27,7 +27,7 @@ I could practice and study:
 - Flexible units;
 
 
-The web page can be seen in the image below:
+The web page can be seen in the images below:
 
 #### 💻 Desktop
 
